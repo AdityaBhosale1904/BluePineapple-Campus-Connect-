@@ -65,5 +65,5 @@ if __name__=='__main__':
         if ch == 4:
             hashTable.displayBook()
         if ch == 5:
-            print("Thanks for visisting...!")
+            print("Thankyou!")
             exit(0)
