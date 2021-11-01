@@ -109,5 +109,5 @@ if __name__=='__main__':
             continue    
         # exit 
         if ch == 5:
-            print("Thanks for visiting...!")
+            print("Thankyou!")
             exit(0)
